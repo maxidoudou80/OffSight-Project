@@ -1,0 +1,8 @@
+-260.8, 4224.0, -2609.4#9.398358#Main Camera Swap to : 4
+-260.8, 4224.0, -2609.4#9.398358#InputManager : switch cam 2
+-260.8, 4224.0, -2609.4#9.984844#Main Camera Swap to : 10
+-260.8, 4224.0, -2609.4#9.984844#InputManager : switch cam 3
+-259.3, 4224.0, -2610.0#3.662219#Main Camera Swap to : 4
+-259.3, 4224.0, -2610.0#3.662219#InputManager : switch cam 2
+-259.3, 4224.0, -2610.0#4.37851#Main Camera Swap to : 3
+-259.3, 4224.0, -2610.0#4.37851#InputManager : switch cam 1

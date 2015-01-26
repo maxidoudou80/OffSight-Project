@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: h_chaussures
+  m_Shader: {fileID: 4800000, guid: 910791e910f55cc4eb3d719a356c5f3f, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 9d57f54ef755aa5418823eb76569b172, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 1f5a7d47fd3e2d840b92294f491ed170, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _diffuse
+        second:
+          m_Texture: {fileID: 2800000, guid: 9d57f54ef755aa5418823eb76569b172, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _specular
+        second:
+          m_Texture: {fileID: 2800000, guid: 9d57f54ef755aa5418823eb76569b172, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _normal
+        second:
+          m_Texture: {fileID: 2800000, guid: 1f5a7d47fd3e2d840b92294f491ed170, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _masque
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _motif
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _emissive
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_745
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .413204849
+      data:
+        first:
+          name: _gloss
+        second: .571428537
+      data:
+        first:
+          name: _diffusepower
+        second: 3.87140989
+      data:
+        first:
+          name: _specularpower
+        second: 17.5
+      data:
+        first:
+          name: _emissivepower
+        second: 0
+      data:
+        first:
+          name: _outlinewidth
+        second: .00499999989
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .470588207, g: .470588207, b: .470588207, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .0147058964, g: .0147058964, b: .0147058964, a: 1}
+      data:
+        first:
+          name: _diffuseambientlight
+        second: {r: .29411763, g: .29411763, b: .29411763, a: 1}
+      data:
+        first:
+          name: _transmission
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _lightwrapping
+        second: {r: .470588207, g: .470588207, b: .470588207, a: 1}
+      data:
+        first:
+          name: _couleur1
+        second: {r: .4558824, g: .4558824, b: .4558824, a: 1}
+      data:
+        first:
+          name: _couleur2
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _couleur3
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _specularcolor
+        second: {r: .16911763, g: .16911763, b: .16911763, a: 1}
+      data:
+        first:
+          name: _node_753
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _couleur
+        second: {r: .492647052, g: .492647052, b: .492647052, a: 1}

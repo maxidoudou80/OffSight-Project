@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: nightclub_porte
+  m_Shader: {fileID: 4800000, guid: 910791e910f55cc4eb3d719a356c5f3f, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 53470809eb5cec84ca36747a441824eb, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: a1251d4fdf8c11a48aa07c7362c5209c, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _diffuse
+        second:
+          m_Texture: {fileID: 2800000, guid: 53470809eb5cec84ca36747a441824eb, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _specular
+        second:
+          m_Texture: {fileID: 2800000, guid: 2f848f3e30545364193786864a3730a0, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _normal
+        second:
+          m_Texture: {fileID: 2800000, guid: a1251d4fdf8c11a48aa07c7362c5209c, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _masque
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _motif
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _emissive
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .104525052
+      data:
+        first:
+          name: _gloss
+        second: .63007921
+      data:
+        first:
+          name: _diffusepower
+        second: 11.3714104
+      data:
+        first:
+          name: _specularpower
+        second: 4.55013895
+      data:
+        first:
+          name: _emissivepower
+        second: 0
+      data:
+        first:
+          name: _outlinewidth
+        second: .00800000038
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .360784322, g: .360784322, b: .360784322, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .160784319, g: .0980392173, b: .0196078438, a: 1}
+      data:
+        first:
+          name: _diffuseambientlight
+        second: {r: .382352948, g: .25709939, b: .143382356, a: 1}
+      data:
+        first:
+          name: _transmission
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _lightwrapping
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _couleur1
+        second: {r: .4558824, g: .4558824, b: .4558824, a: 1}
+      data:
+        first:
+          name: _couleur2
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _couleur3
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _specularcolor
+        second: {r: .617647052, g: .409175545, b: .145328715, a: 1}

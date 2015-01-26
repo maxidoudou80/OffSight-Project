@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: nightclub_bouteilles_Mat
+  m_Shader: {fileID: 4800000, guid: 36bb60d3ed860794c82864bd1f0a1db9, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 16abe4e4088805a4ba75e83f0b5b8266, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DecalTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _diffuse
+        second:
+          m_Texture: {fileID: 2800000, guid: 16abe4e4088805a4ba75e83f0b5b8266, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _specular
+        second:
+          m_Texture: {fileID: 2800000, guid: 05c7888ea950fcf4db7ab9ec05e0c6c7, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _normal
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_343
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_392
+        second:
+          m_Texture: {fileID: 2800000, guid: c92b4dc55f67e8945b41213c1d631d97, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_656
+        second:
+          m_Texture: {fileID: 2800000, guid: 25b6aa97d460d224ca38043eb231146c, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: 0
+      data:
+        first:
+          name: _Shininess
+        second: 1
+      data:
+        first:
+          name: _Parallax
+        second: .0199999996
+      data:
+        first:
+          name: _gloss
+        second: .589285731
+      data:
+        first:
+          name: _Diffusepower
+        second: 3.92857146
+      data:
+        first:
+          name: _alphapower
+        second: 1.68284023
+      data:
+        first:
+          name: _node_354
+        second: 0
+      data:
+        first:
+          name: _node_370
+        second: 0
+      data:
+        first:
+          name: _node_381
+        second: 30
+      data:
+        first:
+          name: _node_426
+        second: 0
+      data:
+        first:
+          name: _node_578
+        second: 0
+      data:
+        first:
+          name: _node_591
+        second: 0
+      data:
+        first:
+          name: _steps
+        second: 20
+      data:
+        first:
+          name: _node_668
+        second: 0
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .279411793, g: .279411793, b: .279411793, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 1, g: .8766734, b: .720588207, a: 0}
+      data:
+        first:
+          name: _Emission
+        second: {r: 0, g: 0, b: 0, a: 0}
+      data:
+        first:
+          name: _diffuseambientlight
+        second: {r: .426470578, g: .426470578, b: .426470578, a: 1}
+      data:
+        first:
+          name: _transmission
+        second: {r: .345588207, g: .275874734, b: .0482807085, a: 1}
+      data:
+        first:
+          name: _lightwrapping
+        second: {r: .117647052, g: .117647052, b: .117647052, a: 0}
+      data:
+        first:
+          name: _node_193
+        second: {r: .345588207, g: .299603254, b: .264273345, a: 1}
+      data:
+        first:
+          name: _node_316
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _node_332
+        second: {r: .5, g: .5, b: .5, a: 1}

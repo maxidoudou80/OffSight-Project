@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: nightclub_verres_Mat
+  m_Shader: {fileID: 4800000, guid: 36bb60d3ed860794c82864bd1f0a1db9, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 5b59832bc10bd8c41a8faf44b5d02f37, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _diffuse
+        second:
+          m_Texture: {fileID: 2800000, guid: 5b59832bc10bd8c41a8faf44b5d02f37, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _specular
+        second:
+          m_Texture: {fileID: 2800000, guid: 12109417eb7a5d541a3f36e30b486c4a, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _normal
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_343
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_392
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_656
+        second:
+          m_Texture: {fileID: 2800000, guid: 62c7dcd73bda97c4cacb544a445016c2, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Cutoff
+        second: .5
+      data:
+        first:
+          name: _Shininess
+        second: 1
+      data:
+        first:
+          name: _gloss
+        second: .571428597
+      data:
+        first:
+          name: _Diffusepower
+        second: 3.92857146
+      data:
+        first:
+          name: _alphapower
+        second: .821428299
+      data:
+        first:
+          name: _node_354
+        second: 0
+      data:
+        first:
+          name: _node_370
+        second: 0
+      data:
+        first:
+          name: _node_381
+        second: 30
+      data:
+        first:
+          name: _node_426
+        second: 0
+      data:
+        first:
+          name: _node_578
+        second: 0
+      data:
+        first:
+          name: _node_591
+        second: 0
+      data:
+        first:
+          name: _steps
+        second: 20
+      data:
+        first:
+          name: _node_668
+        second: 0
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .161764681, g: .153102234, b: .147491321, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: 1, g: 1, b: 1, a: 0}
+      data:
+        first:
+          name: _diffuseambientlight
+        second: {r: .272058845, g: .229998484, b: .19004111, a: 1}
+      data:
+        first:
+          name: _transmission
+        second: {r: .345588207, g: .275874734, b: .0482807085, a: 1}
+      data:
+        first:
+          name: _lightwrapping
+        second: {r: .220588207, g: .210118085, b: .191392705, a: 0}
+      data:
+        first:
+          name: _node_193
+        second: {r: .117647052, g: .0955017284, b: .0674740449, a: 1}
+      data:
+        first:
+          name: _node_316
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _node_332
+        second: {r: .16911763, g: .141674608, b: .106942035, a: 1}

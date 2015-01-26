@@ -1,0 +1,30 @@
+C:\Users\sig5\Desktop\HandleCameraPrototype\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\sig5\Downloads\Handle-Project- JEUDI\Handle-Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\sig5\Downloads\Handle-Project- JEUDI\Handle-Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\sig5\Downloads\Handle-Project- JEUDI\Handle-Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\sig5\Downloads\Handle-Project- JEUDI\Handle-Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\sig5\Downloads\Handle-Project- JEUDI\Handle-Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\sig5\Downloads\Handle-Project- JEUDI\Handle-Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\sig5\Downloads\Handle-Project- JEUDI\Handle-Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\sig5\Downloads\Handle-Project- JEUDI\Handle-Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\sig5\Downloads\Handle-Project- JEUDI\Handle-Project\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\sig5\Downloads\Handle-Project- JEUDI\Handle-Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\sig5\Downloads\Handle-Project- JEUDI\Handle-Project\obj\Debug\Assembly-CSharp.pdb
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\ProBuilderCore.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\ProBuilderMeshOps.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\ProCore.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\SixBySeven.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\UnityEditor.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\UnityEngine.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\nunit.framework.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\obj\Debug\Assembly-CSharp.dll
+C:\Users\sig5\Desktop\Backup\Rentrée\Handle-Project\obj\Debug\Assembly-CSharp.pdb

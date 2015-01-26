@@ -1,0 +1,216 @@
+-42.4, 0.0, -41.7#3.566962#Main Camera Swap to : 1
+-42.4, 0.0, -41.7#3.566962#InputManager : switch cam 2
+-43.2, 0.0, -37.0#18.7794#Main Camera Swap to : 1
+-43.2, 0.0, -37.0#18.7794#InputManager : switch cam 2
+-43.1, 0.0, -27.9#20.72292#Main Camera Swap to : 4
+-43.1, 0.0, -27.9#20.72292#InputManager : switch cam 3
+-43.2, 0.0, -32.6#13.93305#Main Camera Swap to : 1
+-43.2, 0.0, -32.6#13.93305#InputManager : switch cam 2
+-42.7, 0.0, -30.5#17.46668#Main Camera Swap to : 2
+-42.7, 0.0, -30.5#17.46668#InputManager : switch cam 2
+-42.5, 0.0, -45.1#3.351284#Main Camera Swap to : 1
+-42.5, 0.0, -45.1#3.351284#InputManager : switch cam 2
+-43.5, 0.0, -28.9#4.093816#Main Camera Swap to : 2
+-43.5, 0.0, -28.9#4.093816#InputManager : switch cam 3
+-42.6, 0.0, -19.5#8.212992#Main Camera Swap to : 4
+-42.6, 0.0, -19.5#8.212992#InputManager : switch cam 1
+-42.8, 0.0, -23.5#15.33666#Main Camera Swap to : 2
+-42.8, 0.0, -23.5#15.33666#InputManager : switch cam 2
+-42.8, 0.0, -2.4#22.74196#Main Camera Swap to : 0
+-42.8, 0.0, -2.4#22.74196#InputManager : switch cam 3
+-42.8, 0.0, 1.5#24.63056#Main Camera Swap to : 9
+-42.8, 0.0, 1.5#24.63056#InputManager : switch cam 2
+-42.8, 0.0, 1.5#25.61468#Main Camera Swap to : 0
+-42.8, 0.0, 1.5#25.61468#InputManager : switch cam 3
+-42.0, 0.0, 15.3#39.05164#Main Camera Swap to : 5
+-42.0, 0.0, 15.3#39.05164#InputManager : switch cam 3
+-50.0, 0.0, 22.1#47.1631#Main Camera Swap to : 8
+-50.0, 0.0, 22.1#47.1631#InputManager : switch cam 1
+-50.0, 0.0, 22.1#49.38478#Main Camera Swap to : 16
+-50.0, 0.0, 22.1#49.38478#InputManager : switch cam 3
+-49.2, 0.0, 25.2#54.20959#Main Camera Swap to : 11
+-49.2, 0.0, 25.2#54.20959#InputManager : switch cam 2
+-46.1, 0.0, 33.1#63.03963#Main Camera Swap to : 17
+-46.1, 0.0, 33.1#63.03963#InputManager : switch cam 1
+-59.4, 0.0, 31.9#90.82193#Main Camera Swap to : 12
+-59.4, 0.0, 31.9#90.82193#InputManager : switch cam 2
+-55.0, 0.0, 31.9#93.07649#Main Camera Swap to : 16
+-55.0, 0.0, 31.9#93.07649#InputManager : switch cam 1
+-56.3, 0.0, 30.2#100.5646#Main Camera Swap to : 19
+-56.3, 0.0, 30.2#100.5646#InputManager : switch cam 3
+-45.2, 0.0, 47.2#106.628#Main Camera Swap to : 20
+-45.2, 0.0, 47.2#106.628#InputManager : switch cam 3
+-51.8, 0.0, 48.3#112.9399#Main Camera Swap to : 21
+-51.8, 0.0, 48.3#112.9399#InputManager : switch cam 3
+-61.8, 0.0, 48.8#124.0405#Main Camera Swap to : 22
+-61.8, 0.0, 48.8#124.0405#InputManager : switch cam 3
+-61.3, 0.0, 39.7#127.0888#Main Camera Swap to : 23
+-61.3, 0.0, 39.7#127.0888#InputManager : switch cam 3
+-69.5, 0.0, 36.6#131.9428#Main Camera Swap to : 26
+-69.5, 0.0, 36.6#131.9428#InputManager : switch cam 3
+-73.7, 0.0, 51.8#139.2156#Main Camera Swap to : 27
+-73.7, 0.0, 51.8#139.2156#InputManager : switch cam 2
+-73.6, 0.0, 59.4#140.7397#Main Camera Swap to : 32
+-73.6, 0.0, 59.4#140.7397#InputManager : switch cam 3
+-76.0, 0.0, 65.1#142.2538#Main Camera Swap to : 33
+-76.0, 0.0, 65.1#142.2538#InputManager : switch cam 3
+-43.1, 0.0, -29.0#155.2711#Main Camera Swap to : 2
+-43.1, 0.0, -29.0#155.2711#InputManager : switch cam 3
+-44.4, 0.0, -1.0#160.8615#Main Camera Swap to : 0
+-44.4, 0.0, -1.0#160.8615#InputManager : switch cam 3
+-42.2, 0.0, 11.9#163.4392#Main Camera Swap to : 5
+-42.2, 0.0, 11.9#163.4392#InputManager : switch cam 3
+-49.8, 0.0, 19.6#166.4544#Main Camera Swap to : 7
+-49.8, 0.0, 19.6#166.4544#InputManager : switch cam 3
+-49.8, 0.0, 19.6#169.04#Main Camera Swap to : 8
+-49.8, 0.0, 19.6#169.04#InputManager : switch cam 2
+-52.0, 0.0, 26.9#172.7027#Main Camera Swap to : 16
+-52.0, 0.0, 26.9#172.7027#InputManager : switch cam 3
+-51.8, 0.0, 26.7#177.7683#Main Camera Swap to : 11
+-51.8, 0.0, 26.7#177.7683#InputManager : switch cam 2
+-42.8, 0.0, -32.2#3.177229#Main Camera Swap to : 6
+-42.8, 0.0, -32.2#3.177229#InputManager : switch cam 2
+-42.8, 0.0, -23.1#5.007464#Main Camera Swap to : 4
+-42.8, 0.0, -23.1#5.007464#InputManager : switch cam 3
+-42.8, 0.0, -13.4#8.304231#Main Camera Swap to : 0
+-42.8, 0.0, -13.4#8.304231#InputManager : switch cam 3
+-42.6, 0.0, 11.7#14.12157#Main Camera Swap to : 5
+-42.6, 0.0, 11.7#14.12157#InputManager : switch cam 3
+-36.7, 0.0, 16.1#16.27668#Main Camera Swap to : 7
+-36.7, 0.0, 16.1#16.27668#InputManager : switch cam 3
+-33.2, 0.0, 25.1#19.09529#Main Camera Swap to : 15
+-33.2, 0.0, 25.1#19.09529#InputManager : switch cam 3
+-37.3, 0.0, 26.8#23.6004#Main Camera Swap to : 17
+-37.3, 0.0, 26.8#23.6004#InputManager : switch cam 3
+-39.2, 0.0, 26.8#25.95479#Main Camera Swap to : 12
+-39.2, 0.0, 26.8#25.95479#InputManager : switch cam 2
+-41.4, 0.1, 40.1#41.70337#Main Camera Swap to : 13
+-41.4, 0.1, 40.1#41.70337#InputManager : switch cam 2
+-41.4, 0.1, 40.1#50.05281#Main Camera Swap to : 12
+-41.4, 0.1, 40.1#50.05281#InputManager : switch cam 3
+-43.8, 0.0, -29.2#3.778865#Main Camera Swap to : 2
+-43.8, 0.0, -29.2#3.778865#InputManager : switch cam 3
+-43.7, 0.0, -0.8#9.449163#Main Camera Swap to : 0
+-43.7, 0.0, -0.8#9.449163#InputManager : switch cam 3
+-38.1, 0.0, 16.1#14.53513#Main Camera Swap to : 5
+-38.1, 0.0, 16.1#14.53513#InputManager : switch cam 3
+-33.4, 0.0, 16.1#15.81683#Main Camera Swap to : 7
+-33.4, 0.0, 16.1#15.81683#InputManager : switch cam 3
+-32.3, 0.0, 23.3#17.81417#Main Camera Swap to : 15
+-32.3, 0.0, 23.3#17.81417#InputManager : switch cam 3
+-37.5, 0.0, 29.0#21.24429#Main Camera Swap to : 17
+-37.5, 0.0, 29.0#21.24429#InputManager : switch cam 3
+-38.4, 0.0, 29.0#23.11641#Main Camera Swap to : 12
+-38.4, 0.0, 29.0#23.11641#InputManager : switch cam 2
+-41.9, 0.0, 34.9#31.55018#Main Camera Swap to : 18
+-41.9, 0.0, 34.9#31.55018#InputManager : switch cam 2
+-41.4, 0.0, 43.0#40.89378#Main Camera Swap to : 14
+-41.4, 0.0, 43.0#40.89378#InputManager : switch cam 2
+-46.0, 0.0, 44.3#43.47818#Main Camera Swap to : 20
+-46.0, 0.0, 44.3#43.47818#InputManager : switch cam 3
+-53.4, 0.0, 45.1#45.21398#Main Camera Swap to : 21
+-53.4, 0.0, 45.1#45.21398#InputManager : switch cam 3
+-64.0, 0.0, 47.5#49.31835#Main Camera Swap to : 22
+-64.0, 0.0, 47.5#49.31835#InputManager : switch cam 3
+-60.8, 0.0, 40.1#51.89736#Main Camera Swap to : 23
+-60.8, 0.0, 40.1#51.89736#InputManager : switch cam 3
+-68.9, 0.0, 35.9#55.34552#Main Camera Swap to : 26
+-68.9, 0.0, 35.9#55.34552#InputManager : switch cam 3
+-73.8, 0.0, 55.2#62.03846#Main Camera Swap to : 31
+-73.8, 0.0, 55.2#62.03846#InputManager : switch cam 3
+-73.8, 0.0, 61.6#63.31409#Main Camera Swap to : 32
+-73.8, 0.0, 61.6#63.31409#InputManager : switch cam 3
+-75.7, 0.0, 65.5#64.35779#Main Camera Swap to : 33
+-75.7, 0.0, 65.5#64.35779#InputManager : switch cam 3
+-43.7, 0.0, -30.8#73.08285#Main Camera Swap to : 2
+-43.7, 0.0, -30.8#73.08285#InputManager : switch cam 3
+-42.9, 0.0, -1.6#78.93088#Main Camera Swap to : 0
+-42.9, 0.0, -1.6#78.93088#InputManager : switch cam 3
+-42.8, 0.0, 11.3#81.51244#Main Camera Swap to : 5
+-42.8, 0.0, 11.3#81.51244#InputManager : switch cam 3
+-45.1, 0.0, 16.6#84.81085#Main Camera Swap to : 8
+-45.1, 0.0, 16.6#84.81085#InputManager : switch cam 1
+-51.8, 0.0, 23.7#93.86204#Main Camera Swap to : 16
+-51.8, 0.0, 23.7#93.86204#InputManager : switch cam 3
+-47.0, 0.0, 25.1#98.43444#Main Camera Swap to : 11
+-47.0, 0.0, 25.1#98.43444#InputManager : switch cam 2
+-41.4, 0.0, 34.6#105.9125#Main Camera Swap to : 18
+-41.4, 0.0, 34.6#105.9125#InputManager : switch cam 2
+-40.6, 0.0, 36.5#109.756#Main Camera Swap to : 14
+-40.6, 0.0, 36.5#109.756#InputManager : switch cam 2
+-45.1, 0.0, 47.2#118.0393#Main Camera Swap to : 19
+-45.1, 0.0, 47.2#118.0393#InputManager : switch cam 2
+-45.1, 0.0, 47.2#118.6523#Main Camera Swap to : 20
+-45.1, 0.0, 47.2#118.6523#InputManager : switch cam 3
+-52.8, 0.0, 48.3#122.6453#Main Camera Swap to : 21
+-52.8, 0.0, 48.3#122.6453#InputManager : switch cam 3
+-53.5, 0.0, 43.4#136.5124#Main Camera Swap to : 19
+-53.5, 0.0, 43.4#136.5124#InputManager : switch cam 2
+-38.7, 0.0, 30.6#148.01#Main Camera Swap to : 16
+-38.7, 0.0, 30.6#148.01#InputManager : switch cam 1
+-38.7, 0.0, 30.6#150.9596#Main Camera Swap to : 8
+-38.7, 0.0, 30.6#150.9596#InputManager : switch cam 1
+-38.7, 0.0, 30.6#152.5874#Main Camera Swap to : 7
+-38.7, 0.0, 30.6#152.5874#InputManager : switch cam 2
+-38.7, 0.0, 30.6#153.6489#Main Camera Swap to : 15
+-38.7, 0.0, 30.6#153.6489#InputManager : switch cam 3
+-38.7, 0.0, 30.6#155.8368#Main Camera Swap to : 17
+-38.7, 0.0, 30.6#155.8368#InputManager : switch cam 3
+-42.4, 0.0, -45.1#15.99401#Main Camera Swap to : 6
+-42.4, 0.0, -45.1#15.99401#InputManager : switch cam 2
+-42.4, 0.0, -45.1#36.8693#Main Camera Swap to : 2
+-42.4, 0.0, -45.1#36.8693#InputManager : switch cam 2
+-42.4, 0.0, -45.1#39.07267#Main Camera Swap to : 4
+-42.4, 0.0, -45.1#39.07267#InputManager : switch cam 1
+-42.4, 0.0, -45.1#40.0004#Main Camera Swap to : 6
+-42.4, 0.0, -45.1#40.0004#InputManager : switch cam 1
+-42.4, 0.0, -45.1#40.6962#Main Camera Swap to : 1
+-42.4, 0.0, -45.1#40.6962#InputManager : switch cam 1
+-42.4, 0.0, -45.1#2.260652#Main Camera Swap to : 2
+-42.4, 0.0, -45.1#2.260652#InputManager : switch cam 3
+-42.4, 0.0, -45.1#21.63338#Main Camera Swap to : 4
+-42.4, 0.0, -45.1#21.63338#InputManager : switch cam 1
+-42.4, 0.0, -45.1#43.47511#Main Camera Swap to : 2
+-42.4, 0.0, -45.1#43.47511#InputManager : switch cam 2
+-42.4, 0.0, -45.1#47.84871#Main Camera Swap to : 0
+-42.4, 0.0, -45.1#47.84871#InputManager : switch cam 3
+-42.4, 0.0, -45.1#58.50919#Main Camera Swap to : 9
+-42.4, 0.0, -45.1#58.50919#InputManager : switch cam 2
+-42.4, 0.0, -45.1#61.85565#Main Camera Swap to : 0
+-42.4, 0.0, -45.1#61.85565#InputManager : switch cam 3
+-42.4, 0.0, -45.1#63.16442#Main Camera Swap to : 5
+-42.4, 0.0, -45.1#63.16442#InputManager : switch cam 3
+-42.4, 0.0, -45.1#76.46181#Main Camera Swap to : 8
+-42.4, 0.0, -45.1#76.46181#InputManager : switch cam 1
+-42.4, 0.0, -45.1#81.09727#Main Camera Swap to : 7
+-42.4, 0.0, -45.1#81.09727#InputManager : switch cam 2
+-42.4, 0.0, -45.1#93.16108#Main Camera Swap to : 15
+-42.4, 0.0, -45.1#93.16108#InputManager : switch cam 3
+-42.4, 0.0, -45.1#112.7351#Main Camera Swap to : 10
+-42.4, 0.0, -45.1#112.7351#InputManager : switch cam 2
+-42.4, 0.0, -45.1#119.8196#Main Camera Swap to : 17
+-42.4, 0.0, -45.1#119.8196#InputManager : switch cam 3
+-42.4, 0.0, -45.1#128.1483#Main Camera Swap to : 12
+-42.4, 0.0, -45.1#128.1483#InputManager : switch cam 2
+-42.4, 0.0, -45.1#136.5454#Main Camera Swap to : 16
+-42.4, 0.0, -45.1#136.5454#InputManager : switch cam 1
+-42.4, 0.0, -45.1#146.6677#Main Camera Swap to : 11
+-42.4, 0.0, -45.1#146.6677#InputManager : switch cam 2
+-42.4, 0.0, -45.1#4.109542#Main Camera Swap to : 2
+-42.4, 0.0, -45.1#4.109542#InputManager : switch cam 3
+-42.4, 0.0, -45.1#9.38311#Main Camera Swap to : 4
+-42.4, 0.0, -45.1#9.38311#InputManager : switch cam 1
+-42.4, 0.0, -45.1#10.42681#Main Camera Swap to : 6
+-42.4, 0.0, -45.1#10.42681#InputManager : switch cam 1
+-42.4, 0.0, -45.1#21.07154#Main Camera Swap to : 4
+-42.4, 0.0, -45.1#21.07154#InputManager : switch cam 3
+-42.5, 0.0, -31.1#11.22448#Main Camera Swap to : 6
+-42.5, 0.0, -31.1#11.22448#InputManager : switch cam 2
+-42.5, 0.0, -31.1#13.04751#Main Camera Swap to : 4
+-42.5, 0.0, -31.1#13.04751#InputManager : switch cam 3
+-42.5, 0.0, -31.1#14.99352#Main Camera Swap to : 0
+-42.5, 0.0, -31.1#14.99352#InputManager : switch cam 3
+-42.5, 0.0, -31.1#17.85182#Main Camera Swap to : 5
+-42.5, 0.0, -31.1#17.85182#InputManager : switch cam 3
+-42.5, 0.0, -31.1#19.82621#Main Camera Swap to : 7
+-42.5, 0.0, -31.1#19.82621#InputManager : switch cam 3

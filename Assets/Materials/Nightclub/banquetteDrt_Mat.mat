@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: banquetteDrt_Mat
+  m_Shader: {fileID: 4800000, guid: 910791e910f55cc4eb3d719a356c5f3f, type: 3}
+  m_ShaderKeywords: []
+  m_CustomRenderQueue: -1
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: 1f8a691d775d20c4e9dbd2516fe11d4f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 2800000, guid: 0702bfd737cd4894093df58f7d7b3fab, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DecalTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _diffuse
+        second:
+          m_Texture: {fileID: 2800000, guid: 1f8a691d775d20c4e9dbd2516fe11d4f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _specular
+        second:
+          m_Texture: {fileID: 2800000, guid: f95742dafe3cf0c47b39255d71121312, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _normal
+        second:
+          m_Texture: {fileID: 2800000, guid: 0702bfd737cd4894093df58f7d7b3fab, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _emissive
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _motif
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _masque
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Ramp
+        second:
+          m_Texture: {fileID: 2800000, guid: 4a056241e2722dc46a7262a8e7073fd9, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _Shininess
+        second: .107334875
+      data:
+        first:
+          name: _gloss
+        second: .362222075
+      data:
+        first:
+          name: _diffusepower
+        second: 1.72855282
+      data:
+        first:
+          name: _outlinewidth
+        second: .00800000038
+      data:
+        first:
+          name: _specularpower
+        second: 2.40728164
+      data:
+        first:
+          name: _emissivepower
+        second: 0
+      data:
+        first:
+          name: _Outline
+        second: .00200000009
+      data:
+        first:
+          name: _Parallax
+        second: .0199999996
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: .316176474, g: .316176474, b: .316176474, a: 1}
+      data:
+        first:
+          name: _SpecColor
+        second: {r: .0220588446, g: .0190072972, b: .0170307253, a: 1}
+      data:
+        first:
+          name: _diffuseambientlight
+        second: {r: .176470578, g: .0955375209, b: .0220588222, a: 1}
+      data:
+        first:
+          name: _transmission
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _lightwrapping
+        second: {r: .404411793, g: .267912567, b: .0951557085, a: 1}
+      data:
+        first:
+          name: _specularcolor
+        second: {r: .617647052, g: .409175545, b: .145328715, a: 1}
+      data:
+        first:
+          name: _couleur1
+        second: {r: .4558824, g: .4558824, b: .4558824, a: 1}
+      data:
+        first:
+          name: _couleur2
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _couleur3
+        second: {r: .5, g: .5, b: .5, a: 1}
+      data:
+        first:
+          name: _OutlineColor
+        second: {r: 0, g: 0, b: 0, a: 1}
